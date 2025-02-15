@@ -10,6 +10,6 @@ Welcome! This repository contains my personal notes on the book **Python for Dat
 
 | Chapter | Jupyter Notebook      |
 |:-------:|:---------------------:|
-|   1     | [Notebook]() |
+|   1     | [Notebook](https://github.com/marcosnevary/python-for-data-analysis/blob/main/chapters/chapter_1.ipynb) |
 
 </div>
